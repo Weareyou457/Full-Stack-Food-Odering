@@ -54,28 +54,36 @@ Welcome to the MERN Stack Food Ordering System! This project integrates the late
    ```bash
    npm start
 
-##🔒 Authentication
-Register: /api/auth/register (POST)
-Login: /api/auth/login (POST)
-Protected Routes: Use JWT tokens for accessing protected routes.
+### 🔒 Authentication
 
-##🏛️ Admin Panel
-Access the admin panel at /admin after logging in with admin credentials. Features include user management, order tracking, and system settings.
+   Register: /api/auth/register (POST)
+   Login: /api/auth/login (POST)
+   Protected Routes: Use JWT tokens for accessing protected routes.
 
-##💳 Payment Processing
-Configure payment settings in the .env file and integrate with your preferred payment gateway.
+### 🏛️ Admin Panel
 
-##📸 Image Hosting
-Upload images to the server or use a third-party service. Ensure the image URLs are correctly referenced in the application.
+   Access the admin panel at /admin after logging in with admin credentials. Features include user management, order tracking, and system settings.
 
-##🍕 Online Food Ordering
-Browse the menu, add items to your cart, and place orders. Track order status through the order management system.
+### 💳 Payment Processing
 
-##📦 Order Management
-Admin users can manage orders, update statuses, and handle customer inquiries from the admin panel.
+   Configure payment settings in the .env file and integrate with your preferred payment gateway.
 
-##🤝 Contributing
-We welcome contributions! Please follow the guidelines in the CONTRIBUTING.md file for more information.
+### 📸 Image Hosting
 
-##📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+   Upload images to the server or use a third-party service. Ensure the image URLs are correctly referenced in the application.
+
+### 🍕 Online Food Ordering
+
+   Browse the menu, add items to your cart, and place orders. Track order status through the order management system.
+
+### 📦 Order Management
+
+   Admin users can manage orders, update statuses, and handle customer inquiries from the admin panel.
+
+### 🤝 Contributing
+
+   We welcome contributions! Please follow the guidelines in the CONTRIBUTING.md file for more information.
+
+### 📄 License
+
+   This project is licensed under the MIT License. See the LICENSE file for details.
